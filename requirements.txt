@@ -1,1 +1,1 @@
-pycountry >= 0.19
+pycountry==19.8.18
